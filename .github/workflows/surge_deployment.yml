@@ -40,5 +40,4 @@ jobs:
         run: surge./build myapp.surge.sh/ --token 851a6a9f02afbaec31f52a105b47ec0f
         
         
-          echo Add other actions to build,
-          echo test, and deploy your project.
+       
